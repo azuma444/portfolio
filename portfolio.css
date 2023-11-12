@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(255, 255, 255);
+    height: ;
+}
+p{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-size: 30pt;
+    background-color: aquamarine;
+}
+h4{
+    text-align: center;
+    font-size: 17pt;
+}
+.lang{
+    font-size: 15pt;
+}
+.soft{
+    font-size: 15pt;
+    text-align: center;
+}
