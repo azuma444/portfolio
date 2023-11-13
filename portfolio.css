@@ -5,18 +5,28 @@ p{
     text-align: center;
 }
 h1{
-    text-align: center;
+    text-align:center;
     font-size: 30pt;
+    height: 100px;
+    line-height: 100px;
     background-color: aquamarine;
 }
 h4{
     text-align: center;
     font-size: 17pt;
 }
+.prof{
+    line-height: 60%;
+}
+.skl{
+    line-height: 60%;
+}
 .lang{
-    font-size: 15pt;
+    font-size: 12pt;
+    line-height: 60%;
 }
 .soft{
-    font-size: 15pt;
+    font-size: 12pt;
     text-align: center;
+    line-height: 60%;
 }
